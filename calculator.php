@@ -1,4 +1,4 @@
- <?php
+<?php
 /* This script calculates the amount of change needed in EUR. 
 It also specifies which bills and coins are needed and how many of them. 
 Bills or coins that are not needed are not printed on the screen.  */
