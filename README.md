@@ -7,4 +7,11 @@ Spare change calculator built with PHP. This is my first project ever. This app 
   If you want to use another currency, like for example dollars ($),  you can simply change the $denominations array and the echo statements ($ instead of €).
   
   You can of course modify the UI as you please.
+  
+  # Built with
+  * PHP
+  * HTML
+  * CSS (Bootstrap)
+  
+  
 
