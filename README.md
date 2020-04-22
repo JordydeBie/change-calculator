@@ -4,7 +4,7 @@ Spare change calculator built with PHP. This is my first project ever. This app 
  ## Prerequisites
   You can simply copy the file to your harddrive or server. When copying it to your harddrive you need an local/virtual server enviroment like MAMP or XAMPP. Copy the calculator.php file to your htdocs folder. 
  ## Modifying it
-  If you want to use another currency, like for example dollars ($),  you can simply change the $denominations array and the echo statements ($ instead of €).
+  If you want to use another currency, like for example dollars ($),  you can simply change the ```$denominations ``` array and the ```echo ``` statements ($ instead of €).
   
   You can of course modify the UI as you please.
   
@@ -16,7 +16,7 @@ Spare change calculator built with PHP. This is my first project ever. This app 
   # License
   This app is a learning project. It is therfor open-souce and you can modify it as you please or use it in your business. Acknowledgement is appreciated, though.  
   
-  //```$denominations ```
+  
   
   
 
