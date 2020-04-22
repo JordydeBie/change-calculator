@@ -14,7 +14,7 @@ Spare change calculator built with PHP. This is my first project ever. This app 
   * CSS (Bootstrap)
   
   # License
-  This app is a learning project. It is therfor open-souce and you can modify it as you please or use it in your business. Acknowledgement is appreciated, though. 
+  This app is a learning project. It is therfor open-souce and you can modify it as you please or use it in your business. Acknowledgement is appreciated, though.  
   
   //```$denominations ```
   
